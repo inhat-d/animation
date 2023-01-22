@@ -14,6 +14,8 @@ def drawframe(symbol, nowframe, frametotal):
     print(ss)
     time.sleep(0.05)
 
+#hello humans!
+
 while True:
     for x in range(1, 15):
         drawframe("#", x, 15)
